@@ -83,3 +83,9 @@ Future development can focus on expanding device compatibility, improving voice 
 **Nikhil Misal**  
 Electronics & Communication Engineering Student  
 Embedded Systems | IoT | PCB Design | Hardware Design
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
