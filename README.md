@@ -48,7 +48,10 @@ SMART-NODE is an embedded IoT system that combines voice interaction, cloud-base
 - Report Writing and Literature Survey
 
 ## 📸 Project Media
-
+<p align="center">
+  <img src="images/Project.jpg" width="45%" />
+  <img src="images/Project(2).jpg" width="45%" />
+</p>
 Project images and demonstration media will be added to this repository.
 
 ## 👥 Team
