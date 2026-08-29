@@ -70,7 +70,7 @@ This project was developed as part of **Minor Project-II** for the Bachelor of T
 
 The complete SMART-NODE project report, including the system architecture, hardware implementation, circuit connections, and project details, is available below:
 
-📘 [View Complete Project Report](./docs/SMART-NODE_Project_Report.pdfpdf)
+📘 [View Complete Project Report](./docs/SMART-NODE_Project_Report.pdf.pdf)
 
 ## 🔮 Future Scope
 
