@@ -64,6 +64,14 @@ This project was developed as part of **Minor Project-II** for the Bachelor of T
 
 **Project Period:** March 2026 – June 2026
 
+---
+
+## 📄 Project Documentation
+
+The complete SMART-NODE project report, including the system architecture, hardware implementation, circuit connections, and project details, is available below:
+
+📘 [View Complete Project Report](./docs/SMART-NODE_Project_Report.pdf)
+
 ## 🔮 Future Scope
 
 Future development can focus on expanding device compatibility, improving voice interaction, adding more smart automation features, and further enhancing the embedded hardware architecture.
