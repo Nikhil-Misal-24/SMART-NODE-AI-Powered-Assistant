@@ -56,9 +56,8 @@ Project images and demonstration media will be added to this repository.
 
 ## 👥 Team
 
-- **Nikhil Misal**
 - **Sumit Yaduwanshi** — Team Leader
-
+- **Nikhil Misal**
 ## 🎓 Project Details
 
 This project was developed as part of **Minor Project-II** for the Bachelor of Technology in Electronics and Communication Engineering.
